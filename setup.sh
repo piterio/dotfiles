@@ -29,7 +29,7 @@ brew cask install shuttle
 
 # apps
 brew cask install spotify
-brew cask install telegram
+brew cask install telegram-desktop
 brew cask install vlc
 
 #finder
