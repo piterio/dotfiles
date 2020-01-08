@@ -9,6 +9,14 @@ alias work="cd ~/code/work"
 alias brwe="brew"
 alias bsl="brew services list"
 
+# IntelliJ
+alias phpstorm="open -a PhpStorm"
+alias pstorm="phpstorm"
+alias webstorm=" open -a WebStorm"
+alias wstorm=" webstorm"
+
+
 # Others
 alias c='pbcopy'
 alias tf='tail -f'
+
