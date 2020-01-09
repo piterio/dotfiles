@@ -31,6 +31,8 @@ brew cask install shuttle
 brew cask install spotify
 brew cask install telegram-desktop
 brew cask install vlc
+brew cask install background-music
+
 
 #finder
 brew cask install qlcolorcode
