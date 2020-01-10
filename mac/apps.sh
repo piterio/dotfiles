@@ -60,3 +60,7 @@ brew install mas
 mas install 937984704
 # Xcode. Will take forever to download, yes. Not needed by everyone.
 mas install 497799835
+
+# zsh prompt
+npm install -g spaceship-prompt
+
