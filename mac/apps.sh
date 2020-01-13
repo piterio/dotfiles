@@ -32,7 +32,7 @@ brew cask install spotify
 brew cask install telegram-desktop
 brew cask install vlc
 brew cask install background-music
-
+brew install rocket
 
 #finder
 brew cask install qlcolorcode
