@@ -17,6 +17,9 @@ sudo apt-get install git -y
 sudo apt-get install tree -y
 sudo apt-get install vim -y
 sudo apt-get install yarn -y
+sudo apt-get install openvpn -y
+sudo apt-get install network-manager-openvpn -y
+
 
 sudo snap install postman
 sudo snap install skype --classic
